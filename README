@@ -1,0 +1,29 @@
+README.md
+# 💻 Técnicas de Programação
+
+Este repositório é dedicado aos materiais, projetos e exercícios desenvolvidos para a disciplina de **Técnicas de Programação** do curso de Engenharia de Software.
+
+## 🎓 Sobre a Disciplina
+
+| Detalhe | Informação |
+| :--- | :--- |
+| **Curso** | Engenharia de Software |
+| **Instituição** | UDF - Centro Universitário |
+| **Disciplina** | Técnicas de Programação |
+| **Objetivo do Repositório** | Organizar e documentar o aprendizado, servindo como portfólio dos projetos desenvolvidos durante o semestre. |
+
+## 📚 Conteúdo Abordado
+
+A disciplina de Técnicas de Programação foca na introdução e aprofundamento de conceitos fundamentais para a construção de software de qualidade.
+
+**Principais Tópicos (Ajuste conforme a sua ementa):**
+
+*   Introdução à Lógica de Programação e Algoritmos.
+*   Estruturas de Dados Fundamentais (Arrays, Listas, Pilhas, Filas).
+*   Programação Orientada a Objetos (Conceitos básicos: Classes, Objetos, Herança, Polimorfismo).
+*   Estruturas de Controle e Repetição.
+*   Manipulação de Arquivos.
+
+**Linguagem Principal (Ajuste conforme a sua disciplina):**
+
+*   `[INSERIR LINGUAGEM DE PROGRAMAÇÃO AQUI, EX: Python, Java, C++]`
