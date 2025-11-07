@@ -1,29 +1,40 @@
-README.md
-# 💻 Técnicas de Programação
+## 💻 Repositório de Técnicas de Programação - Engenharia de Software
 
-Este repositório é dedicado aos materiais, projetos e exercícios desenvolvidos para a disciplina de **Técnicas de Programação** do curso de Engenharia de Software.
+Este repositório contém o material, códigos de exemplo, projetos e anotações relacionados à disciplina de **Técnicas de Programação** do curso de **Engenharia de Software**.
 
-## 🎓 Sobre a Disciplina
+---
 
-| Detalhe | Informação |
-| :--- | :--- |
-| **Curso** | Engenharia de Software |
-| **Instituição** | UDF - Centro Universitário |
-| **Disciplina** | Técnicas de Programação |
-| **Objetivo do Repositório** | Organizar e documentar o aprendizado, servindo como portfólio dos projetos desenvolvidos durante o semestre. |
+### 🎯 Sobre a Disciplina
 
-## 📚 Conteúdo Abordado
+A disciplina de Técnicas de Programação visa consolidar e aprofundar os conhecimentos fundamentais de programação, focando em **boas práticas**, **eficiência de código**, e a aplicação de **estruturas de dados e algoritmos** essenciais para o desenvolvimento de software robusto e de qualidade.
 
-A disciplina de Técnicas de Programação foca na introdução e aprofundamento de conceitos fundamentais para a construção de software de qualidade.
+**Tópicos Chave Abordados:**
 
-**Principais Tópicos (Ajuste conforme a sua ementa):**
+* Revisão e aprofundamento em paradigmas de programação.
+* Análise e otimização de algoritmos (Notação Big O).
+* Estruturas de Dados fundamentais (Listas, Pilhas, Filas, Árvores, Grafos).
+* Técnicas de depuração (*debugging*) e teste de software.
+* Padrões de projeto (*Design Patterns*) básicos.
+* Boas práticas de codificação (Legibilidade, Manutenibilidade).
 
-*   Introdução à Lógica de Programação e Algoritmos.
-*   Estruturas de Dados Fundamentais (Arrays, Listas, Pilhas, Filas).
-*   Programação Orientada a Objetos (Conceitos básicos: Classes, Objetos, Herança, Polimorfismo).
-*   Estruturas de Controle e Repetição.
-*   Manipulação de Arquivos.
+---
 
-**Linguagem Principal (Ajuste conforme a sua disciplina):**
+### 📂 Estrutura do Repositório
 
-*   `[INSERIR LINGUAGEM DE PROGRAMAÇÃO AQUI, EX: Python, Java, C++]`
+O conteúdo está organizado da seguinte forma:
+
+* `/.vscode` ou `/.idea`: Configurações de ambiente de desenvolvimento (IDE).
+* `/aulas`: Material teórico, slides ou anotações de cada aula.
+* `/exemplos`: Pequenos trechos de código para ilustrar conceitos específicos.
+* `/projeto`: O projeto principal da disciplina (se houver).
+* `/tarefas`: Resolução das listas de exercícios e entregas obrigatórias.
+* `README.md`: Este arquivo.
+
+---
+
+### 🛠️ Tecnologias Utilizadas
+
+* **Linguagem Principal:** [**Insira a Linguagem Principal Aqui** - Ex: Python, Java, C++, JavaScript, etc.]
+* **IDE/Editor:** [**Insira sua IDE/Editor** - Ex: VS Code, IntelliJ, Eclipse, etc.]
+
+---
