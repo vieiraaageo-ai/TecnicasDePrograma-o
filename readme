@@ -1,8 +1,12 @@
-# Técnicas de Programação
+# 💻 Técnicas de Programação
 
-## 🎓 Curso: Engenharia de Software
+> 🎓 **Curso:** Engenharia de Software
 
-Este repositório contém materiais, exercícios e projetos desenvolvidos para a disciplina de **Técnicas de Programação**, parte essencial da grade curricular do curso de Engenharia de Software. O objetivo principal é solidificar os fundamentos da programação e introduzir práticas de desenvolvimento de software que garantam código limpo, eficiente e de fácil manutenção.
+Este repositório contém materiais, exercícios e projetos desenvolvidos para a disciplina de **Técnicas de Programação**. Ela é uma parte essencial da grade curricular do curso de Engenharia de Software.
+
+O objetivo principal é:
+* Solidificar os **fundamentos da programação**.
+* Introduzir práticas de desenvolvimento de software que garantam código **limpo, eficiente e de fácil manutenção**.
 
 ---
 
@@ -10,12 +14,12 @@ Este repositório contém materiais, exercícios e projetos desenvolvidos para a
 
 Ao final desta disciplina, espera-se que o estudante seja capaz de:
 
-1.  **Dominar Estruturas de Dados Fundamentais:** Implementar e utilizar estruturas de dados básicas (listas, pilhas, filas, árvores) de forma eficiente.
-2.  **Aplicar Paradigmas de Programação:** Compreender e aplicar os princípios da Programação Orientada a Objetos (POO) e, em menor grau, conceitos de Programação Funcional.
-3.  **Desenvolver Código de Qualidade:** Adotar boas práticas de codificação, como a escrita de código legível, modular e bem documentado.
-4.  **Utilizar Ferramentas de Desenvolvimento:** Dominar o uso de sistemas de controle de versão (Git/GitHub) e ambientes de desenvolvimento integrado (IDEs).
-5.  **Implementar Testes:** Escrever testes unitários para garantir a correção e robustez do software desenvolvido.
-6.  **Resolver Problemas Complexos:** Aplicar algoritmos e técnicas de programação para solucionar problemas computacionais de média complexidade.
+1.  **Dominar Estruturas de Dados:** Implementar e utilizar estruturas de dados básicas (**listas, pilhas, filas, árvores**) de forma eficiente.
+2.  **Aplicar POO:** Compreender e aplicar os princípios da **Programação Orientada a Objetos (POO)**.
+3.  **Desenvolver Código de Qualidade (Clean Code):** Adotar boas práticas de codificação (código legível, modular e documentado).
+4.  **Utilizar Ferramentas:** Dominar o uso de **sistemas de controle de versão (Git/GitHub)** e IDEs.
+5.  **Implementar Testes:** Escrever **testes unitários** (robustez e correção).
+6.  **Resolver Problemas:** Aplicar algoritmos e técnicas para solucionar problemas computacionais de média complexidade.
 
 ---
 
@@ -25,11 +29,11 @@ A disciplina está estruturada nos seguintes módulos temáticos:
 
 | Módulo | Tópicos Principais | Conceitos Chave |
 | :--- | :--- | :--- |
-| **I. Fundamentos e Revisão** | Revisão de lógica de programação, tipos de dados, estruturas de controle (condicionais e laços). | Complexidade de Algoritmos (Notação O), Recursão. |
-| **II. Estruturas de Dados** | Listas Encadeadas, Pilhas (Stack), Filas (Queue), Tabelas Hash (Hash Maps), Árvores Binárias. | Alocação Dinâmica de Memória, Ponteiros/Referências. |
-| **III. Programação Orientada a Objetos (POO)** | Classes, Objetos, Encapsulamento, Herança, Polimorfismo, Interfaces e Classes Abstratas. | Princípios SOLID, Padrões de Projeto (Introdução). |
-| **IV. Qualidade de Código e Testes** | Boas práticas de codificação (Clean Code), Refatoração, Tratamento de Exceções. | Testes Unitários (Frameworks como JUnit/Pytest), Cobertura de Código. |
-| **V. Ferramentas e Ambientes** | Introdução ao Git e GitHub, Fluxo de Trabalho de Desenvolvimento, IDEs e Debugging. | Controle de Versão, Branching, Merge, Pull Requests. |
+| **I. Fundamentos** | Revisão de lógica, tipos de dados e estruturas de controle. | **Complexidade de Algoritmos (Notação $O$**), **Recursão**. |
+| **II. Estruturas de Dados** | Listas Encadeadas, Pilhas, Filas, Tabelas Hash e Árvores Binárias. | **Alocação Dinâmica**, **Ponteiros/Referências**. |
+| **III. POO** | Classes, Objetos, Encapsulamento, Herança, Polimorfismo, Interfaces e Classes Abstratas. | **Princípios SOLID**, **Padrões de Projeto** (Introdução). |
+| **IV. Qualidade e Testes** | Boas práticas de codificação (Clean Code), Refatoração, Tratamento de Exceções. | **Testes Unitários** (JUnit/Pytest), **Cobertura de Código**. |
+| **V. Ferramentas** | Introdução ao **Git e GitHub**, Fluxo de Trabalho de Desenvolvimento, IDEs e Debugging. | **Controle de Versão**, Branching, Merge, Pull Requests. |
 
 ---
 
@@ -37,6 +41,6 @@ A disciplina está estruturada nos seguintes módulos temáticos:
 
 É fundamental que o estudante tenha conhecimento prévio e sólido nos seguintes temas:
 
-* Lógica de Programação.
-* Conceitos básicos de Algoritmos.
-* Familiaridade com pelo menos uma linguagem de programação (preferencialmente Python ou Java, dependendo da ênfase do curso).
+* **Lógica de Programação**.
+* Conceitos básicos de **Algoritmos**.
+* Familiaridade com pelo menos uma **linguagem de programação** (preferencialmente Python ou Java).
